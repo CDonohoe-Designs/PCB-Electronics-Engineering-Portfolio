@@ -4,7 +4,7 @@ A concise portfolio of selected PCB and embedded-electronics work, covering sche
 
 ## Portfolio PDF
 
-[View the 4-page PCB & Electronics Engineering Portfolio](Portfolio/Caoilte_Donohoe_PCB_Engineering_Portfolio.pdf)
+[View the 4-page PCB & Electronics Engineering Portfolio](Portfolio/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf)
 
 ## Selected Projects
 
