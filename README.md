@@ -8,6 +8,11 @@ A concise portfolio of selected PCB and embedded-electronics work, covering sche
 
 ## Selected Projects
 
+### ESP32-S3 Wireless Hardware & Embedded Engineering
+Four-layer, 41 × 41 mm ESP32-S3 PCB design in KiCad integrating MAX-M10S GNSS, motion and environmental sensors, LiPo power and expansion interfaces. The nine-page portfolio also documents embedded C++ firmware, Wi-Fi/JSON telemetry, JLCPCB manufacturing preparation and live system validation on separate ESP32-S3 development hardware.
+
+[View the 9-page ESP32-S3 Engineering Portfolio (PDF)](Portfolio/ESP32S3/ESP32S3_Engineering_Portfolio_Complete_9Pages.pdf)
+
 ### USB 5 Gbit/s to Gigabit Ethernet Adapter
 High-speed 4-layer PCB design based on the Microchip LAN7800, including schematic capture, controlled-impedance USB/Ethernet routing, DRC and fabrication outputs.
 
