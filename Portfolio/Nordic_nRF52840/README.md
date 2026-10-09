@@ -2,7 +2,7 @@
 
 **Hardware design · Embedded C · Zephyr RTOS / nRF Connect SDK · Bluetooth LE · Manufacturing · Validation**
 
-[**View the complete nine-page Nordic BLE Engineering Portfolio (PDF)**](Nordic_BLE_Engineering_Portfolio_Working_v5.pdf)
+[**View the complete nine-page Nordic BLE Engineering Portfolio (PDF)**](Nordic_BLE_Engineering_Portfolio_Green_Style_v13.pdf)
 
 ## Overview
 
@@ -30,4 +30,4 @@ The custom nRF52840 PCB provides **hardware-design and manufacturing-preparation
 
 The PDF includes schematic and PCB evidence, manufacturing screenshots, firmware source and logs, BLE service implementation, and photographs/screenshots of physical Nordic hardware and the connected application. Manufacturing preparation is not a claim that the custom PCB has been physically assembled or tested.
 
-[**Open the nine-page portfolio PDF**](Nordic_BLE_Engineering_Portfolio_Working_v5.pdf)
+[**Open the nine-page portfolio PDF**](Nordic_BLE_Engineering_Portfolio_Green_Style_v13.pdf)
