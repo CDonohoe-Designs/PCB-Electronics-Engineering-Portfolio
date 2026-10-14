@@ -8,7 +8,7 @@ I am an electronic systems and product-development engineer with 25+ years of ex
 
 ## Selected engineering projects
 
-| Project | Engineering focus | Portfolio and details |
+| Project | Engineering focus | Portfolio |
 |---|---|---|
 | **Engineering Highlights — Electronic Systems, PCB & Embedded Design** | Eight-page, cross-project engineering evidence collection covering mixed-signal and RF design, embedded platforms, measurement/simulation, PCB constraints and manufacturing documentation | [Portfolio (PDF)](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf) |
 | **STM32WL LoRa sensor board** | Sub-GHz RF, analogue input protection and conditioning, ADC/reference interfaces, sensor integration, power architecture and LTspice/Python analysis | [Portfolio (PDF)](Portfolio/STM32WL/PCB_IoT_Embedded_Engineering_Portfolio_STM32WL.pdf) |
