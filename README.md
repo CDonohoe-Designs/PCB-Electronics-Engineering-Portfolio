@@ -6,8 +6,6 @@ A selection of commercial engineering experience and recent technical projects s
 
 I am an electronic systems and product-development engineer with 25+ years of experience working from concept and component selection through schematic and PCB design, qualification, production testing and volume manufacture. My work combines hands-on hardware development with embedded C/C++, wireless communications, measurement systems and practical problem-solving across R&D, manufacturing and customer deployments.
 
-[**View the complete 8-page engineering portfolio (PDF)**](Portfolio/General/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf)
-
 ## Selected engineering projects
 
 | Project | Engineering focus | Portfolio and details |
