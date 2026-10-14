@@ -10,11 +10,11 @@ I am an electronic systems and product-development engineer with 25+ years of ex
 
 | Project | Engineering focus | Portfolio and details |
 |---|---|---|
-| **Engineering Highlights — Electronic Systems, PCB & Embedded Design** | Eight-page, cross-project engineering evidence collection covering mixed-signal and RF design, embedded platforms, measurement/simulation, PCB constraints and manufacturing documentation | [**8-page engineering portfolio (PDF)**](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf) |
+| **Engineering Highlights — Electronic Systems, PCB & Embedded Design** | Eight-page, cross-project engineering evidence collection covering mixed-signal and RF design, embedded platforms, measurement/simulation, PCB constraints and manufacturing documentation | [Portfolio (PDF)](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf) |
 | **STM32WL LoRa sensor board** | Sub-GHz RF, analogue input protection and conditioning, ADC/reference interfaces, sensor integration, power architecture and LTspice/Python analysis | [Portfolio (PDF)](Portfolio/STM32WL/PCB_IoT_Embedded_Engineering_Portfolio_STM32WL.pdf) |
 | **USB 5 Gbit/s to Gigabit Ethernet** | Microchip LAN7800, four-layer Altium PCB, differential-pair constraints, return paths and fabrication/assembly outputs | [Project](https://github.com/CDonohoe-Designs/USB3-Gigabit-Ethernet-Adapter-Portfolio) |
 | **EdgeLink S3 Cellular** | ESP32-S3/SIM7080G cellular and GNSS architecture, battery charging, power conversion, sensor integration and KiCad manufacturing preparation | [Portfolio (PDF)](Portfolio/EdgeLink_S3_Cellular/EdgeLink_S3_Cellular_Engineering_Portfolio.pdf) |
-| **Nordic nRF52840 BLE** | GNSS, LiPo power, sensors, KiCad PCB design, Zephyr/NCS and custom BLE GATT | [Portfolio v14 (PDF)](Portfolio/Nordic_nRF52840/Nordic_BLE_Engineering_Portfolio_Green_Style_v14.pdf) |
+| **Nordic nRF52840 BLE** | GNSS, LiPo power, sensors, KiCad PCB design, Zephyr/NCS and custom BLE GATT | [Portfolio (PDF)](Portfolio/Nordic_nRF52840/Nordic_BLE_Engineering_Portfolio_Green_Style_v14.pdf) |
 | **ESP32-S3 wireless sensing** | Four-layer 41 × 41 mm PCB, GNSS, sensors, Wi-Fi/JSON telemetry and manufacturing preparation | [Portfolio (PDF)](Portfolio/ESP32S3/ESP32S3_Engineering_Portfolio_Complete_9Pages.pdf) |
 
 Project overviews describe the scope of each implementation, including CAD/simulation work and development-board or assembled-hardware demonstrations where applicable.
