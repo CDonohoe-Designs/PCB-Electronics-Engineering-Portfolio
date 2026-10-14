@@ -8,17 +8,6 @@ I am an electronic systems and product-development engineer with 25+ years of ex
 
 [**View the complete 8-page engineering portfolio (PDF)**](Portfolio/General/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf)
 
-## Commercial engineering experience
-
-| Area | Selected engineering evidence |
-|---|---|
-| **Energy monitoring & instrumentation — Watt Footprint** | Developed hardware and firmware for a 12-channel energy monitor supporting 12 single-phase or four three-phase circuits, using ATM90E36 metering ICs, ESP32 and cellular telemetry. Supported fabrication, assembly, testing and delivery of **25 customer-pilot units**. Compared readings against calibrated Fluke equipment, observing approximately **±0.5% agreement under tested conditions**. Implemented MQTT reporting, diagnostics and offline data buffering. |
-| **RF product development & manufacturing — FAAC Electronics** | Designed 433/868 MHz RF and control products through staged trials, pre-series builds and ISO 9001-controlled volume manufacture. Contributed DFM/DFT, production-test specifications, RF/environmental verification, component control, supplier corrective actions and manufacturing documentation. Some assigned designs reached approximately **10,000 units per week**. |
-| **Battery-powered sensing & reliability — AmbiSense** | Profiled system power consumption and improved battery operation from approximately **5 to 30 days** through power-system and operating-cycle changes. Investigated power-converter and cellular reset issues, designed and tested corrective hardware, and supported deployed environmental-monitoring systems with sensor and 4–20 mA interfaces. |
-| **Customer-facing integration — Airserv & Brooklyn Technologies** | Commissioned and troubleshot installed connected systems, including hardware, configuration and communications issues. Designed a cellular parking-machine payment retrofit and supported a **10-machine field pilot**. |
-
-These examples reflect commercial engineering and deployment experience. The projects below provide additional design files, analyses and technical documentation.
-
 ## Selected engineering projects
 
 | Project | Engineering focus | Portfolio and details |
