@@ -8,7 +8,7 @@
 
 This portfolio documents ESP32-S3 embedded hardware design and complementary firmware development, from system architecture and four-layer KiCad PCB layout to manufacturing preparation, sensor acquisition, Wi-Fi connectivity and live application telemetry.
 
-The custom **41 × 41 mm ESP32-S3 PCB** provides **hardware-design and manufacturing-preparation evidence**. Firmware and connected-application demonstrations were **exercised on separate physical ESP32-S3 development hardware**; they are not presented as validation of the custom PCB assembly.
+The project brings together a custom **41 × 41 mm four-layer ESP32-S3 PCB** with embedded C++ development and practical sensor, Wi-Fi and application demonstrations on physical ESP32-S3 development hardware.
 
 ## Hardware and PCB engineering
 
@@ -29,7 +29,5 @@ The custom **41 × 41 mm ESP32-S3 PCB** provides **hardware-design and manufactu
 ## Engineering evidence
 
 The PDF includes custom PCB and schematic design, manufacturing-preparation screenshots, firmware code and serial output, and physical development-hardware and live-application evidence.
-
-**Evidence distinction:** The custom PCB is documented as a design and manufacturing handoff; firmware validation on development hardware does not establish that the custom PCB was assembled, brought up or electrically verified. BLE capability in the hardware does not imply that BLE firmware was demonstrated.
 
 [**Open the nine-page portfolio PDF**](ESP32S3_Engineering_Portfolio_Complete_9Pages.pdf)
