@@ -32,8 +32,5 @@ The PDF includes schematic and PCB evidence, manufacturing screenshots, firmware
 
 [**Open the current portfolio PDF**](Nordic_BLE_Engineering_Portfolio_Green_Style_v14.pdf)
 
-## Previous version
-
-[Portfolio v13 (PDF)](Nordic_BLE_Engineering_Portfolio_Green_Style_v13.pdf)
 
 [Back to the portfolio index](../README.md)
