@@ -8,7 +8,7 @@
 
 This portfolio documents Nordic nRF52840 embedded hardware design and complementary Nordic firmware development, from circuit architecture and KiCad PCB layout to manufacturing handoff, custom Bluetooth LE services and live sensor-to-application validation.
 
-The custom nRF52840 PCB provides **hardware-design and manufacturing-preparation evidence**. The Zephyr/NCS firmware and BLE demonstrations were **exercised on separate physical Nordic development hardware**; they are not presented as validation of the custom PCB assembly.
+The project combines custom nRF52840 PCB engineering and manufacturing preparation with Zephyr/nRF Connect SDK firmware, custom BLE GATT services and live sensor-to-application demonstrations on physical Nordic development hardware.
 
 ## Hardware and PCB engineering
 
@@ -28,7 +28,7 @@ The custom nRF52840 PCB provides **hardware-design and manufacturing-preparation
 
 ## Engineering evidence
 
-The PDF includes schematic and PCB evidence, manufacturing screenshots, firmware source and logs, BLE service implementation, and photographs/screenshots of physical Nordic hardware and the connected application. Manufacturing preparation is not a claim that the custom PCB has been physically assembled or tested.
+The PDF brings together schematic and PCB design, manufacturing outputs, firmware source and logs, BLE service implementation, and photographs/screenshots of physical Nordic development hardware and the connected application.
 
 [**Open the current portfolio PDF**](Nordic_BLE_Engineering_Portfolio_Green_Style_v14.pdf)
 
