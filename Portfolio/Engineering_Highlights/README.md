@@ -1,4 +1,4 @@
-# Electronic Systems, PCB & Embedded Engineering Portfolio
+# Engineering Highlights — Electronic Systems, PCB & Embedded Design
 
 [**View the complete eight-page engineering portfolio (PDF)**](PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf)
 
