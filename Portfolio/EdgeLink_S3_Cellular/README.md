@@ -23,7 +23,7 @@ This portfolio documents the EdgeLink S3 Cellular Rev A hardware design, integra
 
 ## Engineering evidence
 
-The PDF presents the Rev A hardware architecture, schematic/PCB design and manufacturing-preparation evidence. It documents design deliverables rather than claiming completed physical board bring-up or validation.
+The PDF presents the Rev A system architecture, schematic and four-layer PCB design, component selection, power and communications integration, and fabrication/assembly documentation.
 
 [**Open the engineering portfolio PDF**](EdgeLink_S3_Cellular_Engineering_Portfolio.pdf)
 
