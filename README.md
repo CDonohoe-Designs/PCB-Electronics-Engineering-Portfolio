@@ -2,7 +2,7 @@
 
 Selected PCB, embedded hardware, RF/wireless and firmware engineering work, covering architecture, schematic design, layout, manufacturing preparation and physical validation.
 
-[**View the general engineering portfolio (PDF)**](Portfolio/General/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf)
+[**View the complete 8-page engineering portfolio (PDF)**](Portfolio/General/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf)
 
 ## Selected projects
 
