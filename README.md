@@ -11,6 +11,7 @@ I am an electronic systems and product-development engineer with 25+ years of ex
 | Project | Engineering focus | Portfolio |
 |---|---|---|
 | **Engineering Highlights — Electronic Systems, PCB & Embedded Design** | Eight-page, cross-project engineering evidence collection covering mixed-signal and RF design, embedded platforms, measurement/simulation, PCB constraints and manufacturing documentation | [Portfolio (PDF)](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf) |
+| **Engineering Workflow & Manufacturing Process** | Reusable component libraries, sourcing, automated audits, PCB review, JLCPCB manufacturing validation and controlled releases | [Workflow](Portfolio/Engineering_Workflow/README.md) |
 | **STM32WL LoRa sensor board** | Sub-GHz RF, analogue input protection and conditioning, ADC/reference interfaces, sensor integration, power architecture and LTspice/Python analysis | [Portfolio (PDF)](Portfolio/STM32WL/PCB_IoT_Embedded_Engineering_Portfolio_STM32WL.pdf) |
 | **USB 5 Gbit/s to Gigabit Ethernet** | Microchip LAN7800, four-layer Altium PCB, differential-pair constraints, return paths and fabrication/assembly outputs | [Project](https://github.com/CDonohoe-Designs/USB3-Gigabit-Ethernet-Adapter-Portfolio) |
 | **EdgeLink S3 Cellular** | ESP32-S3/SIM7080G cellular and GNSS architecture, battery charging, power conversion, sensor integration and KiCad manufacturing preparation | [Portfolio (PDF)](Portfolio/EdgeLink_S3_Cellular/EdgeLink_S3_Cellular_Engineering_Portfolio.pdf) |
