@@ -15,7 +15,7 @@ I am an electronic systems and product-development engineer with 25+ years of ex
     </td>
     <td valign="top">
       <h2>Engineering Portfolio</h2>
-      <p>The approved <strong>16-page Version 29</strong> portfolio covers commercial product development, hardware and embedded firmware, RF, verification, NPI and manufacturing. Commercial engineering experience includes <strong>FAAC</strong> RF hardware and volume manufacturing, <strong>Watt Footprint</strong> energy monitoring and 25 pilot units, and <strong>AmbiSense</strong> low-power optimization and sensing.</p>
+      <p>The portfolio document covers commercial product development, hardware and embedded firmware, RF, verification, NPI and manufacturing. Commercial engineering experience includes <strong>FAAC</strong> RF hardware and volume manufacturing, <strong>Watt Footprint</strong> energy monitoring and 25 pilot units, and <strong>AmbiSense</strong> low-power optimization and sensing.</p>
       <p><a href="Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf"><strong>View the Complete Engineering Portfolio (PDF)</strong></a></p>
     </td>
   </tr>
