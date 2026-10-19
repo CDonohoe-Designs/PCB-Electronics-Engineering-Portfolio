@@ -10,15 +10,16 @@ I am an electronic systems and product-development engineer with 25+ years of ex
 
 | Project | Engineering focus | Portfolio |
 |---|---|---|
-| **Engineering Highlights — Electronic Systems, PCB & Embedded Design** | Eight-page, cross-project engineering evidence collection covering mixed-signal and RF design, embedded platforms, measurement/simulation, PCB constraints and manufacturing documentation | [Portfolio (PDF)](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf) |
+| **Engineering Highlights — Electronic Systems & Product Engineering** | 16-page portfolio (Version 29): commercial product development and delivery; FAAC RF hardware, NPI and volume manufacturing; Watt Footprint energy monitoring, embedded firmware and 25 pilot units; AmbiSense low-power optimization and sensing; recent hardware design, simulation, verification, DFM/DFT, production engineering and engineering leadership | [Portfolio (PDF)](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf) |
 | **Engineering Workflow & Manufacturing Process** | Reusable component libraries, sourcing, automated audits, PCB review, JLCPCB manufacturing validation and controlled releases | [Workflow](Portfolio/Engineering_Workflow/README.md) |
 | **STM32WL LoRa sensor board** | Sub-GHz RF, analogue input protection and conditioning, ADC/reference interfaces, sensor integration, power architecture and LTspice/Python analysis | [Portfolio (PDF)](Portfolio/STM32WL/PCB_IoT_Embedded_Engineering_Portfolio_STM32WL.pdf) |
 | **USB 3.0 to Gigabit Ethernet — LAN7800** | Four-layer Altium PCB, high-speed routing constraints, completed schematic/PCB reviews, Rev A manufacturing evidence and document-control traceability | [Case study](Portfolio/LAN7800/README.md) · [Engineering evidence](https://github.com/CDonohoe-Designs/USB3-Gigabit-Ethernet-Adapter-Portfolio) |
 | **EdgeLink S3 Cellular** | ESP32-S3/SIM7080G cellular and GNSS architecture, battery charging, power conversion, sensor integration and KiCad manufacturing preparation | [Portfolio (PDF)](Portfolio/EdgeLink_S3_Cellular/EdgeLink_S3_Cellular_Engineering_Portfolio.pdf) |
+| **ExitLight Health Checker** | ESP32-based cellular IoT retrofit for automated emergency-light testing, with SIM800L, BH1750 light sensing, relay-controlled testing and AWS IoT/MQTT reporting | [Portfolio (PDF)](https://github.com/CDonohoe-Designs/IoT-Emergency-Light-Health-Monitoring-System/blob/main/Documentation/ExitLight_Health_Checker_Portfolio.pdf) |
 | **Nordic nRF52840 BLE** | GNSS, LiPo power, sensors, KiCad PCB design, Zephyr/NCS and custom BLE GATT | [Portfolio (PDF)](Portfolio/Nordic_nRF52840/Nordic_BLE_Engineering_Portfolio_Green_Style_v14.pdf) |
 | **ESP32-S3 wireless sensing** | Four-layer 41 × 41 mm PCB, GNSS, sensors, Wi-Fi/JSON telemetry and manufacturing preparation | [Portfolio (PDF)](Portfolio/ESP32S3/ESP32S3_Engineering_Portfolio_Complete_9Pages.pdf) |
 
-Project overviews describe the scope of each implementation, including CAD/simulation work and development-board or assembled-hardware demonstrations where applicable.
+Project overviews distinguish commercial product delivery from CAD, simulation and physical demonstrations. The STM32WL, LAN7800 and EdgeLink boards are CAD design projects; they are not presented as manufactured or physically validated boards. Nordic nRF52840 and ESP32-S3 firmware demonstrations use separate development hardware.
 
 ## Engineering capabilities
 
