@@ -6,11 +6,20 @@ A selection of commercial engineering experience and recent technical projects s
 
 I am an electronic systems and product-development engineer with 25+ years of experience working from concept and component selection through schematic and PCB design, qualification, production testing and volume manufacture. My work combines hands-on hardware development with embedded C/C++, wireless communications, measurement systems and practical problem-solving across R&D, manufacturing and customer deployments.
 
-## Engineering Portfolio
-
-[**View the Complete Engineering Portfolio (PDF)**](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf)
-
-The approved **16-page Version 29** portfolio covers commercial product development, hardware and embedded firmware, RF, verification, NPI and manufacturing. Commercial engineering experience includes **FAAC** RF hardware and volume manufacturing, **Watt Footprint** energy monitoring and 25 pilot units, and **AmbiSense** low-power optimization and sensing.
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf">
+        <img src="Portfolio/Engineering_Highlights/images/portfolio_cover_v29.png" alt="Cover of the approved Version 29 Electronic Systems and Product Engineering Portfolio" width="200">
+      </a>
+    </td>
+    <td valign="top">
+      <h2>Engineering Portfolio</h2>
+      <p>The approved <strong>16-page Version 29</strong> portfolio covers commercial product development, hardware and embedded firmware, RF, verification, NPI and manufacturing. Commercial engineering experience includes <strong>FAAC</strong> RF hardware and volume manufacturing, <strong>Watt Footprint</strong> energy monitoring and 25 pilot units, and <strong>AmbiSense</strong> low-power optimization and sensing.</p>
+      <p><a href="Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf"><strong>View the Complete Engineering Portfolio (PDF)</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ## Selected engineering projects
 
