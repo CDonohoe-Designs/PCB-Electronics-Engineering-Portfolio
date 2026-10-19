@@ -6,11 +6,16 @@ A selection of commercial engineering experience and recent technical projects s
 
 I am an electronic systems and product-development engineer with 25+ years of experience working from concept and component selection through schematic and PCB design, qualification, production testing and volume manufacture. My work combines hands-on hardware development with embedded C/C++, wireless communications, measurement systems and practical problem-solving across R&D, manufacturing and customer deployments.
 
+## Engineering Portfolio
+
+[**View the Complete Engineering Portfolio (PDF)**](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf)
+
+The approved **16-page Version 29** portfolio covers commercial product development, hardware and embedded firmware, RF, verification, NPI and manufacturing. Commercial engineering experience includes **FAAC** RF hardware and volume manufacturing, **Watt Footprint** energy monitoring and 25 pilot units, and **AmbiSense** low-power optimization and sensing.
+
 ## Selected engineering projects
 
 | Project | Engineering focus | Portfolio |
 |---|---|---|
-| **Engineering Highlights — Electronic Systems & Product Engineering** | 16-page portfolio (Version 29): commercial product development and delivery; FAAC RF hardware, NPI and volume manufacturing; Watt Footprint energy monitoring, embedded firmware and 25 pilot units; AmbiSense low-power optimization and sensing; recent hardware design, simulation, verification, DFM/DFT, production engineering and engineering leadership | [Portfolio (PDF)](Portfolio/Engineering_Highlights/PCB_IoT_Solutions_Embedded_Engineering_Portfolio.pdf) |
 | **Engineering Workflow & Manufacturing Process** | Reusable component libraries, sourcing, automated audits, PCB review, JLCPCB manufacturing validation and controlled releases | [Workflow](Portfolio/Engineering_Workflow/README.md) |
 | **STM32WL LoRa sensor board** | Sub-GHz RF, analogue input protection and conditioning, ADC/reference interfaces, sensor integration, power architecture and LTspice/Python analysis | [Portfolio (PDF)](Portfolio/STM32WL/PCB_IoT_Embedded_Engineering_Portfolio_STM32WL.pdf) |
 | **USB 3.0 to Gigabit Ethernet — LAN7800** | Four-layer Altium PCB, high-speed routing constraints, completed schematic/PCB reviews, Rev A manufacturing evidence and document-control traceability | [Case study](Portfolio/LAN7800/README.md) · [Engineering evidence](https://github.com/CDonohoe-Designs/USB3-Gigabit-Ethernet-Adapter-Portfolio) |
